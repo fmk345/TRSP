@@ -11,7 +11,7 @@
 </p>
 
 This is the official implementation of **TRSP: Two-Stage Regularization-Based Structured Pruning for LLMs**.
-
+If you have any questions ❓ or are interested in collaboration 🤝, please feel free to contact me at fmk24@mails.tsinghua.edu.cn.
 > **Authors:** Mingkuan Feng, Jinyang Wu, Siyuan Liu, Shuai Zhang, Hongjian Fang, Ruihan Jin, Feihu Che, Pengpeng Shao, Zhengqi Wen, Jianhua Tao
 
 > Tsinghua University, Peking University, Beijing National Research Center for Information Science and Technology
